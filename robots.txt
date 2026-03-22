@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://biranlab.github.io/sitemap.xml
+Sitemap: https://idanbiran.github.io/biranlab.github.io/sitemap.xml
