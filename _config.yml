@@ -2,9 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:   "Biran Lab" # the website title (if blank, full name will be used instead)
+title: Biran Lab
 first_name: Biran
-middle_name: R.
 last_name: Lab
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
